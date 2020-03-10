@@ -25,14 +25,55 @@ $(document).ready(function () {
   // Question set
   var questionList = [
     {
-      question: "What was the first full length CGI movie?",
-      answers: ["A Bug's Life", "Monsters Inc.", "Toy Story", "The Lion King"],
-      correctAnswer: "Toy Story"
+      question: "'It's a Dinglehopper!'",
+      answers: ["A Bug's Life", "The Little Mermaid", "Toy Story", "The Lion King"],
+      correctAnswer: "The Little Mermaid"
     },
     {
-      question: "Which of these is NOT a name of one of the Spice Girls?",
-      answers: ["Sporty Spice", "Fred Spice", "Scary Spice", "Posh Spice"],
-      correctAnswer: "Fred Spice"
+      question: "'Yesterday is history, tomorrow is a mystery, and today is a gift...that is why they call it the present.'",
+      answers: ["The Karate Kid", "Chicken Little", "Kung Fu Panda", "The Lion King"],
+      correctAnswer: "Kung Fu Panda"
+    },
+    {
+      question: "'Oh, yes, the past can hurt. But from the way I see it, you can either run from it, or learn from it.'",
+      answers: ["Tangled", "Kung Fu Panda", "Toy Story", "The Lion King"],
+      correctAnswer: "The Lion King"
+    },
+    {
+      question: "'I'm sorry I bit you... and pulled your hair... and punched you in the face...'",
+      answers: ["Moana", "Lilo & Stitch", "Toy Story 2", "Tangled"],
+      correctAnswer: "Lilo & Stitch"
+    },
+    {
+      question: "'Whatever just happened... Blame it on the pig.'",
+      answers: ["Moana", "Babe", "Toy Story 3", "Sing"],
+      correctAnswer: "Moana"
+    },
+    {
+      question: "'If you can't say something nice...don't say nothing at all'",
+      answers: ["Dumbo", "Lilo & Stitch", "Bambi", "Cinderella"],
+      correctAnswer: "Bambi"
+    },
+    {
+      question: "'No matter how your heart is grieving, if you keep on believing, the dream that you with can come true.'",
+      answers: ["Moana", "Beauty and the Beast", "Cinderella", "Tangled"],
+      correctAnswer: "Cinderella"
+    },
+    {
+      question: "'Some people are worth melting for.'",
+      answers: ["Moana", "Abominable", "Frozen", "Tangled"],
+      correctAnswer: "Frozen"
+    },
+    
+    {
+      question: "'If you only do what you can do, you'll never be more than you are now.'",
+      answers: ["Frozen", "Kung Fu Panda 3", "Toy Story", "The Lion King"],
+      correctAnswer: "Kung Fu Panda 3"
+    },
+    {
+      question: "'You uncultured swine!'",
+      answers: ["A Bug's Life", "The Little Mermaid", "Toy Story", "The Lion King"],
+      correctAnswer: "Toy Story"
     }];
 
 
